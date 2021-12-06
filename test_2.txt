@@ -1,4 +1,6 @@
 <xml>
 <name>Vadim</name>
 <age>32</age>
+<city>Lviv</city>
+<from>Belarus</from>
 </xml>
